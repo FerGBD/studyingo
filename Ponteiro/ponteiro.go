@@ -23,4 +23,5 @@ func main() {
 
 	variavel3 = 150
 	fmt.Println(variavel3, *ponteiro)
+
 }
