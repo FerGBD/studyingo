@@ -14,7 +14,7 @@ func main() {
 
 	usuario2 := map[string]map[string]string{
 		"nome": {
-			"primeiro": "João",
+			"primeiro": "João pedro",
 			"segundo":  "pedro",
 		},
 		"curso": {
